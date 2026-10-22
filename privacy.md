@@ -1,3 +1,8 @@
+---
+title: JARVIS Privacy Policy
+permalink: /privacy.html
+---
+
 # JARVIS Video Publisher — Privacy Policy
 
 **Last updated: October 22, 2026**
